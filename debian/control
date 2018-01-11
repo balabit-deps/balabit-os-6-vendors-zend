@@ -1,0 +1,12 @@
+Source: vendors-zend
+Maintainer: Balazs Benedek <balazs.benedek@balabit.com>
+Priority: extra
+Section: php
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.12.20
+Homepage: https://framework.zend.com
+
+Package: vendors-zend
+Architecture: all
+Description: Zend Framework is a collection of professional PHP package
+             https://framework.zend.com/downloads/archives

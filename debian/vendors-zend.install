@@ -1,0 +1,6 @@
+Reflection/ /opt/ssb/lib/vendors/Zend/
+Server/ /opt/ssb/lib/vendors/Zend/
+Uri/ /opt/ssb/lib/vendors/Zend/
+Validate/ /opt/ssb/lib/vendors/Zend/
+Soap/ /opt/ssb/lib/vendors/Zend/
+*.php /opt/ssb/lib/vendors/Zend/

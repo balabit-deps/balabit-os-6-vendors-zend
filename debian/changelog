@@ -1,0 +1,5 @@
+vendors-zend (1.12.20-1) balabit-os-6.0; urgency=low
+
+  * Initial release.
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Thu, 11 Jan 2018 11:49:35 +0100
